@@ -118,7 +118,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 The MIT License is a permissive open source license that allows you to use, modify, and distribute this project for both commercial and non-commercial purposes.
 
 ## 📝Feedback and Support
-If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at usman.bvp@gmail.com.
+If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at jaswanthaatukuri139@gmail.com.
 
 ### If you find this repository helpful, don't forget to show your support by giving it a star! ⭐
 Your star is a great way to let us know you appreciate our work and find value in this project. Thank you! ⭐
